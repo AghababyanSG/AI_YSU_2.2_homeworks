@@ -27,8 +27,9 @@ In this repository, you'll find various AI-related homework assignments. Each fo
 
 ## Usage
 
-*Make sure you have the necessary dependencies installed (e.g., Python, libraries, etc.).
-** Refer to the specific assignment’s README for detailed instructions on how to run the code.
+- Make sure you have the necessary dependencies installed (e.g., Python, libraries, etc.).
+
+- Refer to the specific assignment’s README for detailed instructions on how to run the code.
 
 ## Contributing
 
